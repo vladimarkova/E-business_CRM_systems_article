@@ -13,3 +13,14 @@ https://www.researchgate.net/publication/242473976_TECHNOLOGICAL_DIFFERENCES_BET
 
 [6] Бизнес Навигатор връзки с клиенти – CRM, 
 http://www.cfinance.bg/CRM.html
+
+
+
+---Списък с фигурите:
+Фиг.1 CRM и E-CRM съпоставка[5]
+Фиг.2 Бизнес Навигатор пр.1[6]
+Фиг.3 Приходи от CRM продукти по компании[2]
+Фиг.4 Компоненти на CRM[2]
+Фиг.5 AI в CRM[4]
+Фиг.6 Zoho CRM System[4]
+Фиг.7 Sage CRM System[1]
